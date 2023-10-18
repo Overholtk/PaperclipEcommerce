@@ -2,7 +2,8 @@
 Database and front end managemant for Patty's Bulk Paperclips
 
 ## Entity Relationship Diagram
-![image](https://github.com/Overholtk/PaperclipEcommerce/assets/71245955/64f3bf0a-359f-4046-8387-4b897ec30461)
+![image](https://github.com/Overholtk/PaperclipEcommerce/assets/71245955/a159ff83-7ca6-4026-b2dd-32c14e8e4418)
+
 
 ## Explanation of Tables:
 - **Customer:** Contains all current customers
